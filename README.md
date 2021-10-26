@@ -25,7 +25,10 @@ You need to request for the following from #provisioning slack thread:
 ![slug](https://emerald-stingray-3654.twil.io/assets/Slug.png)
 
 Other things you need:
-A developer version of Salesforce.com. To sign up for one, go to https://developer.salesforce.com/signup
+A developer version of Salesforce.com.
+- To sign up for one, go to https://developer.salesforce.com/signup
+- You would need a lead record created in Salesforce, and tasks will be created on that lead
+- Update the required fields in index.html as required. The fields are Id, Status, Subject, WhoId, OwnerId and phoneNumber
 
 ## Create Javascript Source
 
