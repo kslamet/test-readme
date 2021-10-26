@@ -1,4 +1,4 @@
-# Segment Setup
+# Segment Setup for StrangePalooza Project
 
 ## What is it
 
@@ -22,7 +22,7 @@ You need to request for the following from #provisioning slack thread:
 - Recommended: increase account MTU to 10000
 - Provide slug. You can find this general settings tab in https://app.segment.com/your-workspace-name/settings/basic
 
-![slug](link_to_slug_screenshot)
+![slug](https://emerald-stingray-3654.twil.io/assets/Slug.png)
 
 Other things you need:
 A developer version of Salesforce.com. To sign up for one, go to https://developer.salesforce.com/signup
